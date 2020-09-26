@@ -1,0 +1,76 @@
+[
+  {
+    "Id": "thidk-01",
+    "Maker": "motorcycle1",
+    "img": "https://images.pexels.com/photos/1143824/pexels-photo-1143824.jpeg",
+    "Url": "https://www.pexels.com/photo/photo-of-motorcycle-near-airplane-1143824/",
+    "Title": "motorcycle",
+    "Description": "asvasfvfdb",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "Id": "thidk-02",
+    "Maker": "motorcycle2",
+    "img": "https://images.pexels.com/photos/40904/bmw-k-1300-metallic-motorcycle-40904.jpeg",
+    "Url": "https://www.pexels.com/photo/black-and-blue-sports-bike-40904/",
+    "Title": "Black and bluew sport bike",
+    "Description": "asvasfvfdb",
+    "Ratings": [
+      4,
+      5,
+      5,
+      3,
+      2,
+      1,
+      5
+    ]
+  },
+  {
+    "Id": "thidk-03",
+    "Maker": "motorcycle3",
+    "img": "https://images.pexels.com/photos/296735/pexels-photo-296735.jpeg",
+    "Url": "https://www.pexels.com/photo/action-bike-biker-chrome-296735/",
+    "Title": "biker chrome",
+    "Description": "asvasfvfdb",
+    "Ratings": [
+      4,
+      5
+    ]
+  },
+  {
+    "Id": "thidk-04",
+    "Maker": "motorcycle4",
+    "img": "https://images.pexels.com/photos/163789/sky-road-travel-trip-163789.jpeg",
+    "Url": "https://www.pexels.com/photo/gray-and-silver-cruiser-motorcycle-near-green-grass-lawn-163789/",
+    "Title": "silver motorcycle",
+    "Description": "asvasfvfdb",
+    "Ratings": [
+      4,
+      5
+    ]
+  },
+  {
+    "Id": "thidk-05",
+    "Maker": "motorcycle5",
+    "img": "https://images.pexels.com/photos/1231692/pexels-photo-1231692.jpeg",
+    "Url": "https://www.pexels.com/photo/red-and-black-sports-bike-parking-inside-garage-1231692/",
+    "Title": "red motorcycle",
+    "Description": "asvasfvfdb",
+    "Ratings": [
+      3,
+      5
+    ]
+  },
+  {
+    "Id": "thidk-06",
+    "Maker": "motorcycle6",
+    "img": "https://images.pexels.com/photos/1231692/pexels-photo-1231692.jpeg",
+    "Url": "https://www.pexels.com/photo/red-and-black-sports-bike-parking-inside-garage-1231692/",
+    "Title": "red motorcycles",
+    "Description": "asvasfvfdb",
+    "Ratings": null
+  }
+]

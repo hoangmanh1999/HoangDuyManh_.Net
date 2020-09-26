@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        @foreach (var product in Model.Products)
+        {
+            <form style="border:1px solid black;height:auto;width:30%;float:left;margin:10px;background-color:aliceblue">
+                <img src="@product.img" height="400px" width="100%" />
+                <h4 style="text-align:center">@product.Title</h4>
+                <button  data-toggle="modal" data-target="#productModal" class="btn btn-primary"><b>More info</b></button>
+            </form>
+        }
+    </div>
+

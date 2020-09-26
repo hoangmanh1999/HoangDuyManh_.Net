@@ -1,0 +1,87 @@
+﻿[
+  {
+    "ID": "Movie-1",
+    "Name": "Tenet",
+    "Img": "http://image.phimmoizz.net/film/11048/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/tenet-11048/",
+    "Description": "Phim theo chân một tổ chức gián điệp bí ẩn có khả năng thao túng và nghịch đảo thời gian, thực thi sứ mệnh ngăn chặn Thế chiến thứ III từ trước khi nó xảy ra.",
+    "Ratings": [ 2, 4, 5 ]
+  },
+
+  {
+    "ID": "Movie-2",
+    "Name": "LIÊN MINH THÚ CƯNG",
+    "Img": "http://image.phimmoizz.net/film/10357/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/lien-minh-thu-cung-10357/",
+    "Description": "Phim kể về hành trình chiến đấu chống lại thị trưởng Frank Stone của chú chó Roger (Robin Hood của thành phố Robo) và những người bạn. Khi Stone âm mưu trục xuất tất cả các sinh vật sống khỏi thành phố Robo để biến nó thành một nơi chỉ có Robot.",
+    "Ratings": [ 5, 4, 5 ]
+  },
+
+  {
+    "ID": "Movie-3",
+    "Name": "SÓI 100%",
+    "Img": "http://image.phimmoizz.net/film/11066/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/soi-100-11066/",
+    "Description": "Phim là câu chuyện kể về Freddy Lupin - người thừa kế một gia đình sói quý tộc. Vào sinh nhật lần thứ 13 của mình, Freddy phải thực hiện nghi lễ trưởng thành và biến hình thành sói trước sự chứng kiến của các thành viên trong gia tộc. Thế nhưng, cậu lại biến thành một chú chó lông xù (Poodle).",
+    "Ratings": [ 5, 5, 5 ]
+  },
+
+  {
+    "ID": "Movie-4",
+    "Name": "KẺ TRỰC ĐÊM",
+    "Img": "http://image.phimmoizz.net/film/10490/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/ke-truc-dem-10490/",
+    "Description": "Bart Bromley là một nhân viên bán hàng đêm mắc chứng tự kỷ nhưng rất thông minh. Khi một phụ nữ bị sát hại trong ca làm việc của mình, Bart đã trở thành nghi phạm chính. Và khi cuộc điều tra của cảnh sát khép lại, Bart tạo mối liên hệ cá nhân với một vị khách xinh đẹp tên Andrea, nhưng anh sớm nhận ra mình phải ngăn chặn kẻ giết người thực sự trước khi Andrea trở thành nạn nhân tiếp theo.",
+    "Ratings": [ 5, 5, 5 ]
+  },
+
+  {
+    "ID": "Movie-5",
+    "Name": "VÙNG HỦY DIỆT",
+    "Img": "http://image.phimmoizz.net/film/6376/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/vung-huy-diet-i0-6376/",
+    "Description": "Người chồng của một nhà sinh vật học đột ngột biến mất. Cô quyết định cùng với bốn nhà nghiên cứu khoa học nữ khác đi vào một vùng thiên tai, nơi mà các quy luật khoa học thông thường là vô nghĩa.",
+
+    "Ratings": [ 5, 5, 5 ]
+  },
+
+  {
+    "ID": "Movie-6",
+    "Name": "LONG ẤN CƠ MẬT",
+    "Img": "http://image.phimmoizz.net/film/9489/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/long-an-co-mat-9489/",
+    "Description": "Nhà thám hiểm Jonathan Green nhận lệnh từ Peter Đại Đế phải hoàn thành bản đồ miền Đông nước Nga. Trong cuộc hành trình ẩn chứa nhiều điều bất ngờ, anh đã đặt chân đến Trung Quốc và đối mặt với nhiều sinh vật kỳ quái.",
+
+    "Ratings": [ 5, 5, 5 ]
+  },
+
+  {
+    "ID": "Movie-7",
+    "Name": "BIỆT ĐỘI SIÊU ANH HÙNG 4",
+    "Img": "http://image.phimmoizz.net/film/7166/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/biet-doi-sieu-anh-hung-4-hoi-ket-i0-7166/",
+    "Description": "Biệt Đội Siêu Anh Hùng 4: Tàn Cuộc (Avengers 4: Endgame) ra mắt vào tháng 4/2019 sẽ giải quyết triệt để những khúc mắc đã vạch ra suốt 22 bộ phim trước đó của Vụ trụ điện ảnh Marvel (MCU)",
+
+    "Ratings": [ 5, 5, 5 ]
+  },
+  {
+    "ID": "Movie-8",
+    "Name": "BIỆT ĐỘI SIÊU ANH HÙNG 3",
+    "Img": "http://image.phimmoizz.net/film/3244/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/biet-doi-sieu-anh-hung-3-cuoc-chien-vo-cuc-i9-3244/",
+    "Description": "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại.",
+
+    "Ratings": [ 5, 5, 5 ]
+  },
+
+  {
+    "ID": "Movie-9",
+    "Name": "CHIẾN BINH BÁO ĐEN",
+    "Img": "http://image.phimmoizz.net/film/5815/poster.medium.jpg",
+    "Url": "http://www.phimmoizz.net/phim/chien-binh-bao-den-i2-5815/",
+    "Description": "Vương quốc Wakanda, quê hương của Black Panther/ T'Challa hiện ra qua lời kể của một nhân chứng sống sót trở về",
+
+    "Ratings": [ 5, 5, 5 ]
+  }
+
+]

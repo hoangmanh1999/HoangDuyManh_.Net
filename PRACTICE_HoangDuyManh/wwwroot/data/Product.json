@@ -1,0 +1,39 @@
+[
+  {
+    "ID": "thidk-01",
+    "Name": "motorcycle1",
+    "Img": "https://images.pexels.com/photos/1143824/pexels-photo-1143824.jpeg",
+    "Price": "1000$"
+  },
+  {
+    "ID": "thidk-02",
+    "Name": "Black and bluew sport bike",
+    "Img": "https://images.pexels.com/photos/40904/bmw-k-1300-metallic-motorcycle-40904.jpeg",
+    "Price": "2000$"
+  },
+  {
+    "ID": "thidk-03",
+    "Name": "biker chrome",
+    "Img": "https://images.pexels.com/photos/1143824/pexels-photo-1143824.jpeg",
+
+    "Price": "2500$"
+  },
+  {
+    "ID": "thidk-04",
+    "Name": "silver motorcycle",
+    "Img": "https://images.pexels.com/photos/163789/sky-road-travel-trip-163789.jpeg",
+    "Price": "2600$"
+  },
+  {
+    "ID": "thidk-05",
+    "Name": "red motorcycle",
+    "Img": "https://images.pexels.com/photos/1143824/pexels-photo-1143824.jpeg",
+    "Price": "3600$"
+  },
+  {
+    "Id": "thidk-06",
+    "Name": "red motorcycles",
+    "Img": "https://images.pexels.com/photos/1143824/pexels-photo-1143824.jpeg",
+    "Price": "4600$"
+  }
+]

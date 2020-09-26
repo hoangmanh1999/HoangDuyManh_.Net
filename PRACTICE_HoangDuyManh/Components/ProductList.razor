@@ -1,0 +1,28 @@
+﻿@using PRACTICE_HoangDuyManh.Models
+@using PRACTICE_HoangDuyManh.Services
+@using Microsoft.AspNetCore.Components.Web
+@inject JsonFileProductSevice ProductService
+
+    <div class="card-columns">
+        @foreach (var product in ProductService.GetProducts())
+        {
+            <div class="card">
+                <div class="card-img">
+                    <img src="@product.Image" style="width:100%;height:80%" />
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <h5 class="card-title">Price: @product.Price</h5>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">
+                        <button  data-toggle="modal" data-target="#movieModal" class="btn btn-primary">Move Info</button>
+                    </small>
+                </div>
+            </div>
+        }
+    </div>
+
+@code {
+
+}
